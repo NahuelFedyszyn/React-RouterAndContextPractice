@@ -1,3 +1,10 @@
+## Proyecto REACT ROUTER + conslutas a la API
+Codigo publicado usando la libreria de React, no funcionara de manera estandar si se lo intenta ejecutar directamente como un html
+
+La idea de este proyecto es continuar practicando REACT.
+Este consiste en realizar una llamada a una API donde se buscaran datos y luego se presentaran en otra pantalla
+Para esto, se utilizan los hooks de React Router y React Context
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
